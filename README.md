@@ -1,6 +1,6 @@
 # About this Repo 
 
-This is a simple HTTP server built with Node.js that handles CRUD operations for a resource.
+This is a simple HTTP server built with Node.js that handles CRUD operations for an anime resource
 
 ## Getting Started
 ## Clone this repository
