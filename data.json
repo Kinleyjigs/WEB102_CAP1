@@ -1,27 +1,18 @@
 [
-  {
-    "id": 2,
-    "name": "Resource 2",
-    "description": "Description of resource 2"
-  },
-  {
-    "id": 3,
-    "name": "lapa",
-    "description": "Description of tama"
-  },
-  {
-    "id": 3,
-    "name": "New Resource",
-    "description": "Description of the new resource"
-  },
-  {
-    "id": 4,
-    "name": "Updated Resource",
-    "description": "Updated description of the resource"
-  },
-  {
-    "id": 4,
-    "name": "11",
-    "description": "Updated description of the resource"
-  }
-]
+    {
+      "id": 1,
+      "title": "One Piece",
+      "genre": ["Action", "Adventure", "Comedy", "Drama", "Fantasy"]
+    },
+    {
+      "id": 2,
+      "title": "Naruto",
+      "genre": ["Action", "Adventure", "Super Power", "Martial Arts"]
+    },
+    {
+      "id": 3,
+      "title": "Demon Slayer",
+      "genre": ["Action", "Supernatural", "Demons", "Historical"]
+    }
+  ]
+  
